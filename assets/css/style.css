@@ -164,7 +164,7 @@ h3,
 /*portfolio page*/
 
 .work {
-    width: 274px;
+    width: 25%;
     overflow: auto;
     position: relative;
     float: left;
@@ -182,7 +182,7 @@ h3,
     width: 100%;
     border: 0 none;
     opacity: .8;
-
+    clear: both;
 }
 
 .work h3 {
@@ -197,8 +197,9 @@ h3,
     line-height: 30px;
     margin-bottom: 0;
     font-weight: 300;
-    
+    overflow: auto;
     margin: inherit;
+    clear: both;
 }
 
 .auth-image {
